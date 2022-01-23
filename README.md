@@ -24,6 +24,8 @@
 
 - ***text***:
   - Campo de texto.
+- ***password***:
+  - Campo de senha.
 
 ```html
   <textarea></textarea>
