@@ -32,6 +32,8 @@
   - Caixa de seleção.
 - ***submit***:
   - Botão de enviar.
+- ***value***:
+  - Nome que aparecer no botão.
 
 ```html
   <textarea></textarea>
