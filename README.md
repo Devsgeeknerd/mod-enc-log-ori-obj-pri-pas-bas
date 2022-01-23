@@ -34,6 +34,8 @@
   - Botão de enviar.
 - ***value***:
   - Nome que aparecer no botão.
+- ***name***:
+  - Dar nome ao input.
 
 ```html
   <textarea></textarea>
