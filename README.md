@@ -30,6 +30,8 @@
   - Usado para marcar ou selecionar algo.
 - ***checkbox***:
   - Caixa de seleção.
+- ***submit***:
+  - Botão de enviar.
 
 ```html
   <textarea></textarea>
