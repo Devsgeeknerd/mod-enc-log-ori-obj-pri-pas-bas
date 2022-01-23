@@ -26,6 +26,8 @@
   - Campo de texto.
 - ***password***:
   - Campo de senha.
+- ***radio***:
+  - Usado para marcar ou selecionar algo.
 
 ```html
   <textarea></textarea>
