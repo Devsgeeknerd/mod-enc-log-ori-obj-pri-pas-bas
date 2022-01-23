@@ -47,4 +47,6 @@
   <select></select>
 ```
 
+  > Caixa de opções.
+
 ## Informações
