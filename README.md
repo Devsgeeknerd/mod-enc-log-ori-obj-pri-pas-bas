@@ -8,6 +8,7 @@
 ```
 
 ```html
+  <input />
 ```
 
 ```html
