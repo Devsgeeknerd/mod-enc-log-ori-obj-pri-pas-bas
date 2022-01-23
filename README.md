@@ -16,6 +16,7 @@
 ```
 
 ```html
+  <select></select>
 ```
 
 ## Informações
