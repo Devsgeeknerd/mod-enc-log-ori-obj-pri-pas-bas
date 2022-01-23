@@ -41,6 +41,8 @@
   <textarea></textarea>
 ```
 
+  > Campo de varias linhas.
+
 ```html
   <select></select>
 ```
