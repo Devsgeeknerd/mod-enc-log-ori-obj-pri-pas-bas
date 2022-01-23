@@ -28,6 +28,8 @@
   - Campo de senha.
 - ***radio***:
   - Usado para marcar ou selecionar algo.
+- ***checkbox***:
+  - Caixa de seleção.
 
 ```html
   <textarea></textarea>
