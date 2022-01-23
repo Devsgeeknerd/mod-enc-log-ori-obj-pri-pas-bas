@@ -22,6 +22,9 @@
 
   > Onde o usuário inseri as informações.
 
+- ***text***:
+  - Campo de texto.
+
 ```html
   <textarea></textarea>
 ```
