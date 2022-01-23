@@ -8,6 +8,8 @@
 ```
 
   > Usada para criar o formulário.
+- ***POST***:
+  - Ele pegar os dados do formulário e envia internamente.
 
 ```html
   <input />
