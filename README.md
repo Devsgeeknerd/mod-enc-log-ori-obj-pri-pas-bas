@@ -12,6 +12,7 @@
 ```
 
 ```html
+  <textarea></textarea>
 ```
 
 ```html
