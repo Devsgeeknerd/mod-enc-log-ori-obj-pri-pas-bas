@@ -11,7 +11,7 @@
 
 - ***POST***:
   - Ele pegar os dados do formulário e envia internamente.
-- ***GET**:
+- ***GET***:
   - Ele pegar todas as informações do formulário e enviar junto com o endereço da página.
 - ***action***:
   - Envia os dados para a página ou documento especifico.
