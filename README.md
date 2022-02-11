@@ -7,113 +7,106 @@ São campos que seram criados para o usuário interagir ou digitar alguma mensag
    <form></form>
 ```
 
+* ***form***
 > Usada para criar o formulário.
-
-* ***method***
 
 ```html
    <form method=""></form>
 ```
 
-> Método. 
-
-* ***POST***
+* ***method***
+> Método de enviar ou receber as informações.
 
 ```html
    <form method="POST"></form>
 ```
 
+* ***POST***
 > Ele pegar os dados do formulário e envia internamente.
-
-* ***GET***
 
 ```html
    <form method="GET"></form>
 ```
 
+* ***GET***
 > Ele pegar todas as informações do formulário e enviar junto com o endereço da página.
-
-* ***action***
 
 ```html
    <form method="action"></form>
 ```
 
+* ***action***
 > Envia os dados para a página ou documento especifico.
 
 ```html
   <input />
 ```
 
+* ***input***
 > Onde o usuário inseri as informações.
-
-* ***text***
 
 ```html
   <input type="text" />
 ```
 
+* ***text***
 > Campo de texto.
-
-* ***password***
 
 ```html
   <input type="passord" />
 ```
 
+* ***password***
 > Campo de senha.
-
-* ***radio***
 
 ```html
   <input type="ratio" />
 ```
 
+* ***radio***
 > Usado para marcar ou selecionar algo.
-
-* ***checkbox***
 
 ```html
   <input type="checkbox" />
 ```
 
+* ***checkbox***
 > Caixa de seleção, usado para marcar ou selecionar algo.
-
-* ***submit***
 
 ```html
   <input type="submit" />
 ```
 
+* ***submit***
 > Botão de enviar.
-
-* ***value***
 
 ```html
   <input value="" />
 ```
 
+* ***value***
 > Nome que aparecer no botão.
-
-* ***name***
 
 ```html
   <input name="" />
 ```
 
+* ***name***
 > Dar nome ao input.
 
 ```html
   <textarea></textarea>
 ```
 
-  > Campo de varias linhas.
+* ***textarea***
+> Campo de varias linhas.
 
 ```html
   <select></select>
 ```
 
-  > Caixa de opções.
+* ***select***
+> Caixa de opções.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
