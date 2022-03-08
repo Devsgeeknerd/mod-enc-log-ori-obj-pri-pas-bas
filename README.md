@@ -40,6 +40,7 @@
 ```
 
 * ***action***
+
 > Envia os dados para a página ou documento especifico.
 
 ```html
