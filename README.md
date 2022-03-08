@@ -24,6 +24,7 @@
 ```
 
 * ***POST***
+
 > Ele pegar os dados do formulário e envia internamente.
 
 ```html
