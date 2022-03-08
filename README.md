@@ -16,6 +16,7 @@
 ```
 
 * ***method***
+
 > Método de enviar ou receber as informações.
 
 ```html
