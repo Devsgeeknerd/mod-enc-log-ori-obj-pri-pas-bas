@@ -80,6 +80,7 @@
 ```
 
 * ***checkbox***
+
 > Caixa de seleção, usado para marcar ou selecionar algo.
 
 ```html
